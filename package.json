@@ -1,0 +1,31 @@
+{
+  "name": "@dukes-wine/eslint-config-dukes-wine",
+  "version": "1.0.0",
+  "description": "This is the eslint configurations for Dukes Wine Company.",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dukes-Wine-Co/eslint-config-dukes-wine.git"
+  },
+  "author": "DWC Engineering Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dukes-Wine-Co/eslint-config-dukes-wine/issues"
+  },
+  "homepage": "https://github.com/Dukes-Wine-Co/eslint-config-dukes-wine#readme",
+  "dependencies": {
+    "eslint": "^6.8.0"
+  },
+  "peerDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
