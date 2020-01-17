@@ -23,7 +23,7 @@ module.exports = {
         'no-irregular-whitespace': 'error',
         'no-unreachable': 'error',
         'curly': ['error', 'multi'],
-        'dot-location': ['error', 'object'],
+        'dot-location': ['error', 'property'],
         'eqeqeq': ['error', 'smart'],
         'no-multi-spaces': 'error',
         'no-self-assign': 'error',
