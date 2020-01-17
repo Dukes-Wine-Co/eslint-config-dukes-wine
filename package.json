@@ -1,6 +1,6 @@
 {
   "name": "@dukes-wine/eslint-config-dukes-wine",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "This is the eslint configurations for Dukes Wine Company.",
   "main": "index.js",
   "files": [
