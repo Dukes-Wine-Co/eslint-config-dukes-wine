@@ -22,7 +22,7 @@ module.exports = {
         'no-extra-semi': 'error',
         'no-irregular-whitespace': 'error',
         'no-unreachable': 'error',
-        'curly': ['error', 'multi'],
+        'curly': ['error', 'all'],
         'dot-location': ['error', 'property'],
         'eqeqeq': ['error', 'smart'],
         'no-multi-spaces': 'error',
