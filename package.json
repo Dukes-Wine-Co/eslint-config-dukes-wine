@@ -7,6 +7,7 @@
     "index.js"
   ],
   "scripts": {
+    "audit": "npm audit --audit-level=high --registry=https://registry.npmjs.org",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -17,6 +18,8 @@
     "url": "git+https://github.com/Dukes-Wine-Co/eslint-config-dukes-wine.git"
   },
   "author": "DWC Engineering Team",
+  "email": "engineering@dukeswines.com",
+  "url": "https://dukeswines.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Dukes-Wine-Co/eslint-config-dukes-wine/issues"
