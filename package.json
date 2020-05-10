@@ -7,7 +7,7 @@
     "index.js"
   ],
   "scripts": {
-    "audit": "npm audit --audit-level=high --registry=https://registry.npmjs.org",
+    "audit": "npm audit --audit-level=high --registry=https://registry.npmjs.org\n",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
